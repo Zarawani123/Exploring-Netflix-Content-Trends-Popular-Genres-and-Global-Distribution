@@ -25,7 +25,4 @@ This project is an **interactive dashboard** for analyzing Netflix content data.
 - statsmodels (ETS)
 - SQLite (optional)
 
-## How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/interactive-netflix-analysis.git
+
